@@ -10,6 +10,7 @@ Currently, only raw binaries are supported (no ELF files). You can use `objcopy`
 
 ## TODO
  - [ ] Branch instruction / Jump
+ - [ ] Exceptions
  - [ ] RV64I
  - [ ] S extensions
  - [ ] SBI / Device tree.
